@@ -716,6 +716,9 @@ function buildNearbyGrid(): Map<string, GridEntry[]> {
   const g = new Map<string, GridEntry[]>();
   for (const p of pois) {
     if (!p || p.type === "region" || p.type === "country") continue;
+    // Arva-parent POI-t (ismeretlen parent -> germany-fallback path) NE ajanljon
+    // nearby-kent: az oldala nem generalodik (lasd eligible filter), igy 404 lenne.
+    if (!p.parent || slugs.getCountryIdStrict(p.parent) == null) continue;
     const c = coordLatLon(p.coords);
     if (!c) continue;
     if (!hasIndexableContent(p)) continue;
