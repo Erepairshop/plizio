@@ -300,17 +300,29 @@ jobs:
           D=.next/cache
           [ -d "$D" ] || exit 0
           BEFORE=$(du -sm "$D" 2>/dev/null | cut -f1)
-          BUDGET=$((3072 * 1024 * 1024))   # 3 GB in bytes
+          # CRITICAL: .next/cache/turbopack is a RocksDB-style SST database — deleting
+          # individual files inside it leaves a corrupt DB and the NEXT build dies with
+          # "Failed to restore task data ... Failed to open SST file" (happened 2026-06-12,
+          # caused by the old per-file trim below). Treat turbopack as an ATOMIC unit:
+          # keep it whole, trim only the rest of the cache per-file. (fix 2026-06-13)
+          TP="$D/turbopack"
+          TPSZ=$(du -sm "$TP" 2>/dev/null | cut -f1); TPSZ=${TPSZ:-0}
+          BUDGET_MB=3072
+          REST_MB=$(( BUDGET_MB - TPSZ )); [ "$REST_MB" -lt 256 ] && REST_MB=256
+          REST_B=$(( REST_MB * 1024 * 1024 ))
           total=0
-          # newest-first; once cumulative size passes the budget, delete the rest
-          find "$D" -type f -printf '%T@ %s %p\n' | sort -rn | while read -r _ size path; do
+          # newest-first over NON-turbopack files; once cumulative > rest-budget, delete
+          find "$D" -type f -not -path "$TP/*" -printf '%T@ %s %p\n' | sort -rn | while read -r _ size path; do
             total=$((total + size))
-            if [ "$total" -gt "$BUDGET" ]; then rm -f "$path"; fi
+            if [ "$total" -gt "$REST_B" ]; then rm -f "$path"; fi
           done
-          # drop now-empty dirs
+          # safety valve: only if turbopack alone is absurdly large, drop it WHOLESALE
+          # (it regenerates on the next build — never partial-delete inside it).
+          if [ "$TPSZ" -gt 9216 ]; then echo "turbopack ${TPSZ}MB > 9GB → dropping wholesale"; rm -rf "$TP"; fi
+          # drop now-empty dirs (but never descend to corrupt turbopack — it has no empties to clean here)
           find "$D" -type d -empty -delete 2>/dev/null
           AFTER=$(du -sm "$D" 2>/dev/null | cut -f1)
-          echo ".next/cache trimmed: ${BEFORE:-?}MB -> ${AFTER:-?}MB (budget 3072MB)"
+          echo ".next/cache trimmed: ${BEFORE:-?}MB -> ${AFTER:-?}MB (turbopack ${TPSZ}MB kept intact, rest budget ${REST_MB}MB)"
 
       - name: Atomic static release + nginx reload
         run: |
