@@ -25,6 +25,10 @@ let _tzLookup: ((lat: number, lng: number) => string) | null = null;
 try { _tzLookup = _tzRequire("tz-lookup"); } catch { _tzLookup = null; }
 import * as _slugsNs from "../lib/seo/slugs";
 import type { POI } from "../lib/visualLab/data/poi";
+import * as _loaderNs from "./_load-full-pois";
+const _loader: any = (_loaderNs as any).default ?? _loaderNs;
+const loadFullPois: () => Promise<POI[]> = _loader.loadFullPois;
+const hasIndexableContent: (poi: POI) => boolean = _loader.hasIndexableContent;
 import * as _exploreNs from "../lib/explore/explore-block";
 import type { HubLang } from "../lib/seo/sightsHubs";
 import * as _hubsNs from "../lib/seo/sightsHubs";
@@ -352,87 +356,8 @@ function lookupSightPoiLink(hostPoiId: string, sightName: string): string | unde
 // in this standalone tsx process. slugs.ts can't import these heavy files because
 // the Next.js build workers would OOM, but this script runs separately with a 16GB
 // heap and only Node, so it tolerates the heavy graph.
-// Duplicate-city blocklist: ids that are redundant duplicates of a richer POI
-// (same place, ≤2km). Excluded everywhere so the kept (richest) POI owns the
-// canonical sitemap slug — fixes dup pages + 404 map markers. See _dedup_final.json.
-const DEDUP_BLOCK: Set<string> = new Set(
-  JSON.parse(fs.readFileSync(path.resolve(process.cwd(), "lib/visualLab/data/_dedup_blocklist.json"), "utf-8")),
-);
-async function loadFullPois(): Promise<POI[]> {
-  const [
-    { pois: dePois },
-    { romaniaAllPois },
-    { hungaryAllPoi },
-    { vaticanPois, vaticanCountry },
-    { ALL_COUNTRY_POIS, ALL_DE_EXTRA_POIS },
-    { poiExtraDeV1 },
-    { poiExtraRoV1 },
-    { poiExtraHuV4 },
-    { poiExtraFrV1 },
-    { poiExtraUkV1 },
-    { poiExtraUkMissingV1 },
-    { poiExtraAtChMissingV1 },
-    { poiExtraHrV1 },
-    { poiExtraHrV2 },
-    { poiExtraItalyV2 },
-    { poiExtraEsV2 },
-    { poiExtraHrV3 },
-    { euNewV1 },
-    { glNewV1 },
-    { naNewV1 },
-    { afNewV1 },
-    { asiaNewV1 },
-  ] = await Promise.all([
-    import("../lib/visualLab/data/poi"),
-    import("../lib/visualLab/data/romaniaPoi"),
-    import("../lib/visualLab/data/hungaryPoi"),
-    import("../lib/visualLab/data/vaticanPoi"),
-    import("../lib/visualLab/data/allCountryPois"),
-    import("../lib/visualLab/data/poiExtraDeV1"),
-    import("../lib/visualLab/data/poiExtraRoV1"),
-    import("../lib/visualLab/data/poiExtraHuV4"),
-    import("../lib/visualLab/data/poiExtraFrV1"),
-    import("../lib/visualLab/data/poiExtraUkV1"),
-    import("../lib/visualLab/data/poiExtraUkMissingV1"),
-    import("../lib/visualLab/data/poiExtraAtChMissingV1"),
-    import("../lib/visualLab/data/poiExtraHrV1"),
-    import("../lib/visualLab/data/poiExtraHrV2"),
-    import("../lib/visualLab/data/poiExtraItalyV2"),
-    import("../lib/visualLab/data/poiExtraEsV2"),
-    import("../lib/visualLab/data/poiExtraHrV3"),
-    import("../lib/visualLab/data/poiExtraEuNewV1"),
-    import("../lib/visualLab/data/poiExtraGlNewV1"),
-    import("../lib/visualLab/data/poiExtraNaNewV1"),
-    import("../lib/visualLab/data/poiExtraAfNewV1"),
-    import("../lib/visualLab/data/poiExtraAsiaNewV1"),
-  ]);
-  const all = ([] as POI[]).concat(
-    dePois as POI[], ALL_DE_EXTRA_POIS as POI[], romaniaAllPois as POI[], hungaryAllPoi as POI[],
-    [vaticanCountry as POI], vaticanPois as POI[], ALL_COUNTRY_POIS as POI[],
-    poiExtraDeV1 as POI[], poiExtraRoV1 as POI[], poiExtraHuV4 as POI[], poiExtraFrV1 as POI[],
-    poiExtraUkV1 as POI[], poiExtraUkMissingV1 as POI[], poiExtraAtChMissingV1 as POI[],
-    poiExtraHrV1 as POI[], poiExtraHrV2 as POI[], poiExtraItalyV2 as POI[], poiExtraEsV2 as POI[],
-    poiExtraHrV3 as POI[], euNewV1 as POI[], glNewV1 as POI[], naNewV1 as POI[], afNewV1 as POI[],
-    asiaNewV1 as POI[],
-  );
-  // Dedup by id (richest wins — match slugs.ts pre-refactor behavior).
-  const byId = new Map<string, POI>();
-  function richness(p: POI): number {
-    let n = 0;
-    const da = (p as { descriptionAdvanced?: Record<string, string> }).descriptionAdvanced;
-    const d = (p as { description?: Record<string, string> }).description;
-    for (const obj of [d, da]) if (obj) for (const l of ["de", "hu", "ro", "en"]) n += (obj as any)[l]?.length || 0;
-    return n;
-  }
-  for (const p of all) {
-    if (!p?.id) continue;
-    const prev = byId.get(p.id);
-    if (!prev || richness(p) > richness(prev)) byId.set(p.id, p);
-  }
-  const out = Array.from(byId.values()).filter((p) => !DEDUP_BLOCK.has(p.id));
-  console.log(`[generate-poi-html] loaded ${out.length} full POIs (dedup-block: ${DEDUP_BLOCK.size})`);
-  return out;
-}
+// DEDUP_BLOCK + loadFullPois moved to ./_load-full-pois (shared with build-poi-url-index
+// so the pages we write and the pre-build URL index can never diverge — 2026-06-13).
 const pois: POI[] = await loadFullPois();
 // Build a global id→POI lookup for cross-referencing (e.g. sight name internal links).
 const allById = new Map<string, POI>(pois.filter(p => p?.id).map(p => [p.id, p]));
@@ -586,17 +511,7 @@ function buildPoiTitle(name: string, poi: POI, lang: Lang): string {
   return `${name}: ${kw[0]}${SUFFIX}`;
 }
 
-function hasIndexableContent(poi: POI): boolean {
-  const desc = poi.description as Record<string, string> | undefined;
-  const facts = poi.facts as Record<string, string[]> | undefined;
-  const descAdv = (poi as { descriptionAdvanced?: Record<string, string> }).descriptionAdvanced;
-  const factsAdv = (poi as { factsAdvanced?: Record<string, string[]> }).factsAdvanced;
-  for (const l of ["de", "hu", "ro", "en"] as const) {
-    if ((desc?.[l]?.length ?? 0) > 0 || (descAdv?.[l]?.length ?? 0) > 0) return true;
-    if ((facts?.[l]?.length ?? 0) > 0 || (factsAdv?.[l]?.length ?? 0) > 0) return true;
-  }
-  return false;
-}
+// hasIndexableContent moved to ./_load-full-pois (shared with build-poi-url-index).
 
 // AdSense eligibility: only show ads on pages with genuinely rich content.
 // Criteria: PlizioGo POI OR (descriptionAdvanced ≥500 chars in current lang AND facts/factsAdvanced present).

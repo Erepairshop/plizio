@@ -6,10 +6,10 @@ import { COUNTRY_COPY, getCountryCopy, SEO_COPY, absoluteUrl, isLang } from "@/l
 import {
   SUPPORTED_LANGS,
   buildCountryPath,
-  buildPoiPath,
   countrySlugFor,
   type Lang,
 } from "@/lib/seo/slugs";
+import { poiHref } from "@/lib/seo/poiUrlIndex";
 import {
   TYPE_BUCKETS,
   TYPE_HEADINGS,
@@ -121,11 +121,16 @@ export default async function TypeIndexPage({ params }: { params: Promise<{ lang
 
         <ul className="mt-8 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
           {items.map((p) => {
+            // Authoritative path from the URL index (the page the generator actually
+            // wrote). null → no page exists for this id (deduped/ineligible) → skip the
+            // link entirely so we never render a 404 (2026-06-13).
+            const href = poiHref(r.lang, p);
+            if (!href) return null;
             const name = p.name?.[r.lang] || p.name?.de || p.id;
             return (
               <li key={p.id}>
                 <a
-                  href={buildPoiPath(r.lang, p)}
+                  href={href}
                   className="block rounded-2xl border border-white/8 bg-white/[0.03] p-3 transition hover:border-cyan-500/30 hover:bg-cyan-500/[0.04]"
                 >
                   <span className="text-sm font-medium text-white/90">{name}</span>
